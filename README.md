@@ -1,3 +1,5 @@
+Ease-Class
+=================
 Ease Class is an e-learning platform meant to help the students learn in a modern environment.
 
 To open the application go to "Application Runnable" and open "Proiect.exe".
