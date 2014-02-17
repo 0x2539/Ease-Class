@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<problema>
+	<limitaTimp></limitaTimp>
+	<memorieTotala></memorieTotala>
+	<memorieStiva></memorieStiva>
+	<nrTeste></nrTeste>
+	<dimensiuneSursa></dimensiuneSursa>
+	<alteInformatii></alteInformatii>
+</problema>

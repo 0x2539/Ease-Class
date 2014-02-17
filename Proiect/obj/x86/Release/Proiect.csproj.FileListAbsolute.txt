@@ -1,0 +1,359 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\Proiect\bin\Release\Proiect.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Proiect\bin\Release\Proiect.pdb
+C:\Users\Alex\AppData\Local\Temporary Projects\Proiect\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex\AppData\Local\Temporary Projects\Proiect\obj\x86\Release\Proiect.Form1.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\Proiect\obj\x86\Release\Proiect.Properties.Resources.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\Proiect\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Alex\AppData\Local\Temporary Projects\Proiect\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Alex\AppData\Local\Temporary Projects\Proiect\obj\x86\Release\Proiect.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Proiect\obj\x86\Release\Proiect.pdb
+C:\Users\Alex\AppData\Local\Temporary Projects\Proiect\bin\Release\Database1.sdf
+C:\Users\Alex\AppData\Local\Temporary Projects\Proiect\bin\Release\Proiect.exe.config
+C:\Users\Alex\AppData\Local\Temporary Projects\Proiect\obj\x86\Release\Proiect.Profil.resources
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\bin\Release\Proiect.exe.config
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\obj\x86\Release\Proiect.exe
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\obj\x86\Release\Proiect.pdb
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\bin\Release\Database1.sdf
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\bin\Release\Proiect.exe
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\bin\Release\Proiect.pdb
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\obj\x86\Release\Proiect.Form1.resources
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\obj\x86\Release\Proiect.LogIn.resources
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\obj\x86\Release\Proiect.Profil.resources
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\obj\x86\Release\Proiect.Properties.Resources.resources
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\obj\x86\Release\Proiect.Register.resources
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\bin\Release\Interop.WMPLib.dll
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\obj\x86\Release\Proiect.csproj.ResolveComReference.cache
+C:\Users\Alex\documents\visual studio 2010\Projects\Proiect\Proiect\obj\x86\Release\Proiect.Mate.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect\Proiect\obj\x86\Release\Proiect.Mate2.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\bin\Release\Proiect.exe.config
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\obj\x86\Release\Proiect.csproj.ResolveComReference.cache
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\obj\x86\Release\Proiect.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\obj\x86\Release\Proiect.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\obj\x86\Release\Proiect.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\obj\x86\Release\Proiect.LogIn.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\obj\x86\Release\Proiect.Mate.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\obj\x86\Release\Proiect.Mate2.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\obj\x86\Release\Proiect.Profil.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\obj\x86\Release\Proiect.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\obj\x86\Release\Proiect.Register.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\bin\Release\Database1.sdf
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\bin\Release\Proiect.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\bin\Release\Proiect.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\bin\Release\Interop.WMPLib.dll
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\obj\x86\Release\Proiect.LectiiMate.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect - Copy\Proiect\obj\x86\Release\Proiect.ScrieLectie.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\bin\Release\Proiect.exe.config
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.csproj.ResolveComReference.cache
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Profil.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Register.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\bin\Release\Proiect.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\bin\Release\Proiect.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\bin\Release\Interop.WMPLib.dll
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.AdaugaLectieChimie.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.AdaugaLectieFizica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.AdaugaLectieInformatica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.AdaugaTestChimie.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.AdaugaTestFizica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.AdaugaTestInformatica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VeziLectiiInformatica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VeziLectiiFizica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VeziLectiiChimie.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VeziTesteInformatica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VeziTesteFizica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VeziTesteChimie.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.RaspunsTestInformatica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.RaspunsTestFizica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.RaspunsTestChimie.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.TestInformatica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.TestFizica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.TestChimie.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VideoInformatica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VideoFizica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VideoChimie.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorChimie.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorFizica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorInformatica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorMatematica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VizualizeazaTestChimie.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VizualizeazaTestFizica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VizualizeazaTestInformatica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Nivele_utilizatori.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Nivele_utilizatori.LogIn.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.NoteElevi.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorRaspunsTestChimie.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorRaspunsTestFizica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorRaspunsTestInformatica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorRaspunsTestMatematica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorTestChimie.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorTestFizica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorTestInformatica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorTestMatematica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Aplicatii.Informatica.Evaluator.AdaugaProblema.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Aplicatii.Informatica.Evaluator.EditareTest.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Aplicatii.Informatica.Evaluator.Evaluator.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Aplicatii.Informatica.Evaluator.Rezultate.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Aplicatii.Informatica.Evaluator.Setari.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.triunghi.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Desen1.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Calculator.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Ecuatie.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Determinanti.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.FAQCreareLectie.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.FAQCreareTest.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.FAQForm1.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.FAQRaspTest.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.FAQRegister.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Net.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Matrici.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ReadMe.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.FAQEvaluator.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.FAQTest.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Ecuatia1.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\bin\Release\Concurs.mdf
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\bin\Release\Concurs_log.ldf
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.AdaugaLectieMatematica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Catalog.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.NewPass.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ElevChimie.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ElevFizica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ElevInformatica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ElevMatematica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VizitatorChimie.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VizitatorFizica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VizitatorInformatica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VizitatorMatematica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VizualizeazaTestMatematica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VeziLectiiMatematica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VideoMatematica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.RaspunsTestMatematica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.AdaugaTestMatematica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VeziTesteMatematica.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.TestMatematica.resources
+D:\Projects\Proiect2 - Copy\Proiect\bin\Release\Concurs.mdf
+D:\Projects\Proiect2 - Copy\Proiect\bin\Release\Concurs_log.ldf
+D:\Projects\Proiect2 - Copy\Proiect\bin\Release\Database1.mdf
+D:\Projects\Proiect2 - Copy\Proiect\bin\Release\Database1_log.ldf
+D:\Projects\Proiect2 - Copy\Proiect\bin\Release\Proiect.exe.config
+D:\Projects\Proiect2 - Copy\Proiect\bin\Release\Proiect.exe
+D:\Projects\Proiect2 - Copy\Proiect\bin\Release\Proiect.pdb
+D:\Projects\Proiect2 - Copy\Proiect\bin\Release\Interop.WMPLib.dll
+D:\Projects\Proiect2 - Copy\Proiect\bin\Release\AxInterop.WMPLib.dll
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Interop.WMPLib.dll
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\AxInterop.WMPLib.dll
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.csproj.ResolveComReference.cache
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.AdaugaLectieMatematica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.AdaugaLectieFizica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.AdaugaLectieChimie.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.AdaugaLectieInformatica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.AdaugaTestChimie.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.AdaugaTestFizica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.AdaugaTestInformatica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Aplicatii.Informatica.Evaluator.AdaugaProblema.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Aplicatii.Informatica.Evaluator.EditareTest.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Aplicatii.Informatica.Evaluator.Evaluator.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Aplicatii.Informatica.Evaluator.Rezultate.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Aplicatii.Informatica.Evaluator.Setari.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Calculator.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Catalog.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Desen1.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Determinanti.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Ecuatia1.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Ecuatie.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.FAQCreareLectie.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.FAQCreareTest.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.FAQEvaluator.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.FAQForm1.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.FAQRaspTest.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.FAQRegister.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.FAQTest.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Net.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Matrici.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.NewPass.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ElevChimie.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ElevFizica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ElevInformatica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ElevMatematica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorChimie.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorFizica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorInformatica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorMatematica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VizitatorChimie.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VizitatorFizica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VizitatorInformatica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VizitatorMatematica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.NoteElevi.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorRaspunsTestChimie.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorRaspunsTestFizica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorRaspunsTestInformatica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorRaspunsTestMatematica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ReadMe.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorTestChimie.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorTestFizica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorTestInformatica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfesorTestMatematica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Triunghi.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VizualizeazaTestChimie.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VizualizeazaTestFizica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VizualizeazaTestInformatica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VizualizeazaTestMatematica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.RaspunsTestInformatica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.RaspunsTestFizica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.RaspunsTestChimie.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.TestInformatica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.TestFizica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.TestChimie.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VeziTesteInformatica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VeziTesteFizica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VeziTesteChimie.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VeziLectiiInformatica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VeziLectiiFizica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VeziLectiiChimie.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VeziLectiiMatematica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Nivele_utilizatori.Form1.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Nivele_utilizatori.LogIn.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VideoInformatica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VideoFizica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VideoChimie.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VideoMatematica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Properties.Resources.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.RaspunsTestMatematica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.Register.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.AdaugaTestMatematica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.VeziTesteMatematica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.TestMatematica.resources
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.exe
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.pdb
+D:\Projects\Proiect2 - Copy\Proiect\obj\x86\Release\Proiect.ProfilElev.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\bin\Release\Concurs.mdf
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\bin\Release\Concurs_log.ldf
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\bin\Release\Database1.mdf
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\bin\Release\Database1_log.ldf
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\bin\Release\Database2.mdf
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\bin\Release\Database2_log.ldf
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\bin\Release\Database3.mdf
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\bin\Release\Database3_log.ldf
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\bin\Release\Proiect.exe.config
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\bin\Release\Proiect.exe
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\bin\Release\Proiect.pdb
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\bin\Release\Interop.WMPLib.dll
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.csproj.ResolveComReference.cache
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.AdaugaLectieMatematica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.AdaugaLectieFizica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.AdaugaLectieChimie.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.AdaugaLectieInformatica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.AdaugaTestChimie.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.AdaugaTestFizica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.AdaugaTestInformatica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.Aplicatii.Informatica.Evaluator.AdaugaProblema.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.Aplicatii.Informatica.Evaluator.EditareTest.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.Aplicatii.Informatica.Evaluator.Evaluator.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.Aplicatii.Informatica.Evaluator.Rezultate.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.Aplicatii.Informatica.Evaluator.Setari.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.Calculator.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.Catalog.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.Conexiune.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.Desen1.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.Determinanti.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.Ecuatia1.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.Ecuatie.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.FAQCreareLectie.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.FAQCreareTest.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.FAQEvaluator.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.FAQForm1.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.FAQRaspTest.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.FAQRegister.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.FAQTest.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.Net.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.Matrici.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.NewPass.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.ElevChimie.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.ElevFizica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.ElevInformatica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.ElevMatematica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.ProfesorChimie.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.ProfesorFizica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.ProfesorInformatica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.ProfesorMatematica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VizitatorChimie.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VizitatorFizica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VizitatorInformatica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VizitatorMatematica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.ProfilProfesor.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.ProfesorRaspunsTestChimie.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.ProfesorRaspunsTestFizica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.ProfesorRaspunsTestInformatica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.ProfesorRaspunsTestMatematica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.ReadMe.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.ProfesorTestChimie.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.ProfesorTestFizica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.ProfesorTestInformatica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.ProfesorTestMatematica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.Triunghi.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VizualizeazaTestChimie.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VizualizeazaTestFizica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VizualizeazaTestInformatica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VizualizeazaTestMatematica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.RaspunsTestInformatica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.RaspunsTestFizica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.RaspunsTestChimie.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.TestInformatica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.TestFizica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.TestChimie.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VeziTesteInformatica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VeziTesteFizica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VeziTesteChimie.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VeziLectiiInformatica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VeziLectiiFizica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VeziLectiiChimie.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VeziLectiiMatematica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.Nivele_utilizatori.Form1.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.Nivele_utilizatori.LogIn.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VideoInformatica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VideoFizica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VideoChimie.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VideoMatematica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.ProfilElev.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.Properties.Resources.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.RaspunsTestMatematica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.Register.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.AdaugaTestMatematica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.VeziTesteMatematica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.TestMatematica.resources
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.exe
+C:\Users\Alex\Desktop\Galaciuc 2.7\Proiect\obj\x86\Release\Proiect.pdb
+C:\Users\Alex\Desktop\Galaciuc 2.7.1\Proiect\bin\Release\Proiect.exe.config
+C:\Users\Alex\Desktop\Galaciuc 2.7.1\Proiect\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Alex\Desktop\Galaciuc 2.7.1\Proiect\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Alex\Desktop\Galaciuc 2.7.1\Proiect\obj\x86\Release\Proiect.csproj.ResolveComReference.cache
+C:\Users\Alex\Desktop\Galaciuc 2.7.1\Proiect\obj\x86\Release\Proiect.exe
+C:\Users\Alex\Desktop\Galaciuc 2.7.1\Proiect\obj\x86\Release\Proiect.pdb

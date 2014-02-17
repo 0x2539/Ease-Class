@@ -1,0 +1,669 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7ADE67AF-D333-4122-BC5F-3CBB81EB3634}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Proiect</RootNamespace>
+    <AssemblyName>Proiect</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.1.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcceseazaMateriile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcceseazaMateriile.Designer.cs">
+      <DependentUpon>AcceseazaMateriile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicatii\Informatica\Evaluator\AdaugaProblema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicatii\Informatica\Evaluator\AdaugaProblema.designer.cs">
+      <DependentUpon>AdaugaProblema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicatii\Informatica\Evaluator\EditareTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicatii\Informatica\Evaluator\EditareTest.designer.cs">
+      <DependentUpon>EditareTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicatii\Informatica\Evaluator\Evaluator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicatii\Informatica\Evaluator\Evaluator.designer.cs">
+      <DependentUpon>Evaluator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicatii\Informatica\Evaluator\Problema.cs" />
+    <Compile Include="Aplicatii\Informatica\Evaluator\Punctaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicatii\Informatica\Evaluator\Punctaje.Designer.cs">
+      <DependentUpon>Punctaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicatii\Informatica\Evaluator\Rezultate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicatii\Informatica\Evaluator\Rezultate.designer.cs">
+      <DependentUpon>Rezultate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicatii\Informatica\Evaluator\Setari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicatii\Informatica\Evaluator\Setari.designer.cs">
+      <DependentUpon>Setari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicatii\Informatica\Evaluator\SetariCompilator1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>SetariCompilator.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicatii\MesajeAvertizare.cs" />
+    <Compile Include="BazaDate.cs" />
+    <Compile Include="Calculator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculator.designer.cs">
+      <DependentUpon>Calculator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Catalog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Catalog.Designer.cs">
+      <DependentUpon>Catalog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conexiune.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conexiune.Designer.cs">
+      <DependentUpon>Conexiune.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateMaterieNoua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateMaterieNoua.Designer.cs">
+      <DependentUpon>CreateMaterieNoua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Database1DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Database1DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Desen1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desen1.Designer.cs">
+      <DependentUpon>Desen1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Determinanti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Determinanti.Designer.cs">
+      <DependentUpon>Determinanti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ecuatia1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ecuatia1.Designer.cs">
+      <DependentUpon>Ecuatia1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ecuatie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ecuatie.Designer.cs">
+      <DependentUpon>Ecuatie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FAQCreareLectie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FAQCreareLectie.Designer.cs">
+      <DependentUpon>FAQCreareLectie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FAQCreareTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FAQCreareTest.Designer.cs">
+      <DependentUpon>FAQCreareTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FAQEvaluator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FAQEvaluator.Designer.cs">
+      <DependentUpon>FAQEvaluator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FAQForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FAQForm1.Designer.cs">
+      <DependentUpon>FAQForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FAQRaspTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FAQRaspTest.Designer.cs">
+      <DependentUpon>FAQRaspTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FAQRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FAQRegister.Designer.cs">
+      <DependentUpon>FAQRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FAQTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FAQTest.Designer.cs">
+      <DependentUpon>FAQTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewLectie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewLectie.Designer.cs">
+      <DependentUpon>NewLectie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewListaLectiiSiTeste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewListaLectiiSiTeste.Designer.cs">
+      <DependentUpon>NewListaLectiiSiTeste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Materiile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Materiile.Designer.cs">
+      <DependentUpon>Materiile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Net.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Net.designer.cs">
+      <DependentUpon>Net.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matrici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matrici.Designer.cs">
+      <DependentUpon>Matrici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewAdaugaLectie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewAdaugaLectie.Designer.cs">
+      <DependentUpon>NewAdaugaLectie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewAdaugaTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewAdaugaTest.Designer.cs">
+      <DependentUpon>NewAdaugaTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewPass.Designer.cs">
+      <DependentUpon>NewPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewProfesorTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewProfesorTest.Designer.cs">
+      <DependentUpon>NewProfesorTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewRaspunsTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewRaspunsTest.Designer.cs">
+      <DependentUpon>NewRaspunsTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewTest.Designer.cs">
+      <DependentUpon>NewTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReadMe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReadMe.Designer.cs">
+      <DependentUpon>ReadMe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScriereaPoloneza.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Triunghi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Triunghi.Designer.cs">
+      <DependentUpon>Triunghi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewVizualizeazaTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewVizualizeazaTest.Designer.cs">
+      <DependentUpon>NewVizualizeazaTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProiectDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProiectDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings1.cs" />
+    <Compile Include="Deschidere.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Deschidere.settings</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AcceseazaMateriile.resx">
+      <DependentUpon>AcceseazaMateriile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicatii\Informatica\Evaluator\AdaugaProblema.resx">
+      <DependentUpon>AdaugaProblema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicatii\Informatica\Evaluator\EditareTest.resx">
+      <DependentUpon>EditareTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicatii\Informatica\Evaluator\Evaluator.resx">
+      <DependentUpon>Evaluator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicatii\Informatica\Evaluator\Punctaje.resx">
+      <DependentUpon>Punctaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicatii\Informatica\Evaluator\Rezultate.resx">
+      <DependentUpon>Rezultate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicatii\Informatica\Evaluator\Setari.resx">
+      <DependentUpon>Setari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculator.resx">
+      <DependentUpon>Calculator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Catalog.resx">
+      <DependentUpon>Catalog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conexiune.resx">
+      <DependentUpon>Conexiune.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateMaterieNoua.resx">
+      <DependentUpon>CreateMaterieNoua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desen1.resx">
+      <DependentUpon>Desen1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Determinanti.resx">
+      <DependentUpon>Determinanti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ecuatia1.resx">
+      <DependentUpon>Ecuatia1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ecuatie.resx">
+      <DependentUpon>Ecuatie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FAQCreareLectie.resx">
+      <DependentUpon>FAQCreareLectie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FAQCreareTest.resx">
+      <DependentUpon>FAQCreareTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FAQEvaluator.resx">
+      <DependentUpon>FAQEvaluator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FAQForm1.resx">
+      <DependentUpon>FAQForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FAQRaspTest.resx">
+      <DependentUpon>FAQRaspTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FAQRegister.resx">
+      <DependentUpon>FAQRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FAQTest.resx">
+      <DependentUpon>FAQTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewAdaugaLectie.resx">
+      <DependentUpon>NewAdaugaLectie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewLectie.resx">
+      <DependentUpon>NewLectie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewListaLectiiSiTeste.resx">
+      <DependentUpon>NewListaLectiiSiTeste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Materiile.resx">
+      <DependentUpon>Materiile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Net.resx">
+      <DependentUpon>Net.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matrici.resx">
+      <DependentUpon>Matrici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewAdaugaTest.resx">
+      <DependentUpon>NewAdaugaTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewPass.resx">
+      <DependentUpon>NewPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewProfesorTest.resx">
+      <DependentUpon>NewProfesorTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewRaspunsTest.resx">
+      <DependentUpon>NewRaspunsTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewTest.resx">
+      <DependentUpon>NewTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewVizualizeazaTest.resx">
+      <DependentUpon>NewVizualizeazaTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReadMe.resx">
+      <DependentUpon>ReadMe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Triunghi.resx">
+      <DependentUpon>Triunghi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Aplicatii\Informatica\Evaluator\SetariCompilator.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>SetariCompilator1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="app.config" />
+    <None Include="Database1DataSet.xsc">
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Database1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Database1DataSet.xss">
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet1.xsc">
+      <DependentUpon>Database1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Database1DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Database1DataSet1.xss">
+      <DependentUpon>Database1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ProiectDataSet.xsc">
+      <DependentUpon>ProiectDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ProiectDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProiectDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ProiectDataSet.xss">
+      <DependentUpon>ProiectDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Deschidere.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Deschidere.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5 SP2</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loadCercWin8.jpg" />
+    <None Include="Resources\matrice.png" />
+    <None Include="Resources\det.png" />
+    <None Include="Resources\net.png" />
+    <None Include="Resources\eval2.png" />
+    <None Include="Resources\Untitled-1.png" />
+    <None Include="Resources\eval.png" />
+    <None Include="Resources\Calculator-icon %281%29.png" />
+    <None Include="Resources\calculator-icon.png" />
+    <None Include="Resources\file_unlocked.png" />
+    <None Include="Resources\file_locked.png" />
+    <None Include="Resources\tag.png" />
+    <None Include="Resources\basket_add.png" />
+    <None Include="Resources\bullet_info1.png" />
+    <None Include="Resources\file_download.png" />
+    <None Include="Resources\photo_add.png" />
+    <None Include="Resources\file_edit.png" />
+    <None Include="Resources\bullet_error.png" />
+    <None Include="Resources\bullet_info.png" />
+    <None Include="Resources\bullet_accept.png" />
+    <None Include="Resources\bullet_add.png" />
+    <None Include="Resources\folder_edit.png" />
+    <None Include="Resources\user_info.png" />
+    <None Include="Resources\lock_locked.png" />
+    <None Include="Resources\note.png" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\door.ico" />
+    <None Include="Resources\bullet_delete.png" />
+    <None Include="Resources\bullet_deny.png" />
+    <None Include="Resources\key.png" />
+    <None Include="Resources\user_tag.png" />
+    <None Include="Resources\user_tag2.png" />
+    <None Include="Resources\user_tag.ico" />
+    <None Include="Resources\user_info.ico" />
+    <None Include="Resources\user_deny.ico" />
+    <None Include="Resources\user_add.ico" />
+    <None Include="Resources\triunghi1.png" />
+    <None Include="Resources\triunghi.png" />
+    <None Include="Resources\Form1.png" />
+    <None Include="Resources\teste2.png" />
+    <None Include="Resources\matematica.png" />
+    <None Include="Resources\Informatica.png" />
+    <None Include="Resources\Fizica.png" />
+    <None Include="Resources\Chimie.png" />
+    <None Include="Resources\label111.png" />
+    <None Include="Resources\label2.png" />
+    <None Include="Resources\label.png" />
+    <None Include="Resources\evaluator.png" />
+    <None Include="Resources\calculator4.png" />
+    <None Include="Resources\calculator3.png" />
+    <None Include="Resources\calculator2.png" />
+    <None Include="Resources\calculator.png" />
+    <None Include="Resources\calc.png" />
+    <None Include="Resources\button12.png" />
+    <None Include="Resources\button2.png" />
+    <None Include="Resources\button1.png" />
+    <None Include="Resources\buton1.png" />
+    <None Include="Resources\butc13.png" />
+    <None Include="Resources\butc12.png" />
+    <None Include="Resources\butc11.png" />
+    <None Include="Resources\butc4.png" />
+    <None Include="Resources\butc2.png" />
+    <None Include="Resources\butc1.png" />
+    <None Include="Resources\but3.png" />
+    <None Include="Resources\bg3.png" />
+    <None Include="Resources\bg.png" />
+    <None Include="Resources\bg Taiat.png" />
+    <None Include="Resources\OY2.png" />
+    <None Include="Resources\OX21.png" />
+    <None Include="Resources\OY.png" />
+    <None Include="Resources\cmred90.png" />
+    <None Include="Resources\cmred.png" />
+    <None Include="Resources\cm900.5.png" />
+    <None Include="Resources\cm900.1.png" />
+    <None Include="Resources\cm90.png" />
+    <None Include="Resources\cm0.5red90.png" />
+    <None Include="Resources\cm0.5red.png" />
+    <None Include="Resources\cm0.5.png" />
+    <None Include="Resources\cm0.1red90.png" />
+    <None Include="Resources\cm0.1red.png" />
+    <None Include="Resources\cm0.1.png" />
+    <None Include="Resources\cm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Database1.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Database1_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Database1.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

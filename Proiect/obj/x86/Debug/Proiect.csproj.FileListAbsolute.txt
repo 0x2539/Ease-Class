@@ -1,0 +1,276 @@
+G:\Programming\Ease_Class-2012-12-24\Ease Class\Ease Class,   ItFest\ItFest 2012 2.2.22\Proiect\bin\Debug\Proiect.exe.config
+G:\Programming\Ease_Class-2012-12-24\Ease Class\Ease Class,   ItFest\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Interop.WMPLib.dll
+G:\Programming\Ease_Class-2012-12-24\Ease Class\Ease Class,   ItFest\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\Programming\Ease_Class-2012-12-24\Ease Class\Ease Class,   ItFest\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.csproj.ResolveComReference.cache
+G:\Programming\Ease_Class-2012-12-24\Ease Class\Ease Class,   ItFest\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.exe
+G:\Programming\Ease_Class-2012-12-24\Ease Class\Ease Class,   ItFest\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.pdb
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.csproj.ResolveComReference.cache
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.exe
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.pdb
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\bin\Debug\Database1.mdf
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\bin\Debug\Database1_log.ldf
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\bin\Debug\Proiect.exe
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\bin\Debug\Proiect.pdb
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\bin\Debug\Interop.WMPLib.dll
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.csprojResolveAssemblyReference.cache
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.AcceseazaMateriile.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.AdaugaProblema.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.EditareTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Evaluator.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Punctaje.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Rezultate.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Setari.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Calculator.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Catalog.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Conexiune.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.CreateMaterieNoua.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Desen1.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Determinanti.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Ecuatia1.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Ecuatie.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.FAQCreareLectie.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.FAQCreareTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.FAQEvaluator.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.FAQForm1.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.FAQRaspTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.FAQRegister.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.FAQTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.NewAdaugaLectie.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.NewLectie.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.NewListaLectiiSiTeste.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Materiile.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Net.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Matrici.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.NewAdaugaTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.NewPass.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.NewProfesorTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.NewRaspunsTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.NewTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.NewVizualizeazaTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.ReadMe.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Triunghi.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Form1.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.LogIn.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Properties.Resources.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.Register.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22\Proiect\obj\x86\Debug\Proiect.csproj.GenerateResource.Cache
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.csproj.ResolveComReference.cache
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.exe
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.pdb
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\bin\Debug\Database1.mdf
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\bin\Debug\Database1_log.ldf
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\bin\Debug\Proiect.exe
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\bin\Debug\Proiect.pdb
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\bin\Debug\Interop.WMPLib.dll
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.csprojResolveAssemblyReference.cache
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.AcceseazaMateriile.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.AdaugaProblema.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.EditareTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Evaluator.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Punctaje.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Rezultate.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Setari.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Calculator.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Catalog.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Conexiune.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.CreateMaterieNoua.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Desen1.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Determinanti.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Ecuatia1.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Ecuatie.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.FAQCreareLectie.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.FAQCreareTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.FAQEvaluator.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.FAQForm1.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.FAQRaspTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.FAQRegister.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.FAQTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.NewAdaugaLectie.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.NewLectie.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.NewListaLectiiSiTeste.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Materiile.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Net.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Matrici.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.NewAdaugaTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.NewPass.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.NewProfesorTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.NewRaspunsTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.NewTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.NewVizualizeazaTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.ReadMe.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Triunghi.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Form1.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.LogIn.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Properties.Resources.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.Register.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final\Proiect\obj\x86\Debug\Proiect.csproj.GenerateResource.Cache
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.csproj.ResolveComReference.cache
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.exe
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.pdb
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.csprojResolveAssemblyReference.cache
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.AcceseazaMateriile.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.AdaugaProblema.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.EditareTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Evaluator.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Punctaje.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Rezultate.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Setari.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Calculator.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Catalog.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Conexiune.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.CreateMaterieNoua.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Desen1.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Determinanti.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Ecuatia1.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Ecuatie.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQCreareLectie.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQCreareTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQEvaluator.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQForm1.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQRaspTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQRegister.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewAdaugaLectie.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewLectie.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewListaLectiiSiTeste.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Materiile.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Net.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Matrici.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewAdaugaTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewPass.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewProfesorTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewRaspunsTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewVizualizeazaTest.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.ReadMe.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Triunghi.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Form1.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.LogIn.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Properties.Resources.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Register.resources
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.csproj.GenerateResource.Cache
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\Database1.mdf
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\Database1_log.ldf
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\Proiect.exe
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\Proiect.pdb
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\Interop.WMPLib.dll
+C:\Users\alexb_000\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.csproj.ResolveComReference.cache
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.exe
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.pdb
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\Database1.mdf
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\Database1_log.ldf
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\Proiect.exe
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.AcceseazaMateriile.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.AdaugaProblema.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.EditareTest.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Evaluator.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Punctaje.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Rezultate.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Setari.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Calculator.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Catalog.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Conexiune.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.CreateMaterieNoua.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Desen1.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Determinanti.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Ecuatia1.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Ecuatie.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQCreareLectie.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQCreareTest.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQEvaluator.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQForm1.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQRaspTest.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQRegister.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQTest.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewAdaugaLectie.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewLectie.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewListaLectiiSiTeste.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Materiile.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Net.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Matrici.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewAdaugaTest.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewPass.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewProfesorTest.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewRaspunsTest.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewTest.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewVizualizeazaTest.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.ReadMe.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Triunghi.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Form1.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.LogIn.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Properties.Resources.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Register.resources
+C:\Users\Alex\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.csproj.GenerateResource.Cache
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.csproj.ResolveComReference.cache
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.exe
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.pdb
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\Database1.mdf
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\Database1_log.ldf
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\Proiect.exe
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.csprojResolveAssemblyReference.cache
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.AcceseazaMateriile.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.AdaugaProblema.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.EditareTest.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Evaluator.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Punctaje.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Rezultate.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Aplicatii.Informatica.Evaluator.Setari.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Calculator.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Catalog.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Conexiune.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.CreateMaterieNoua.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Desen1.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Determinanti.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Ecuatia1.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Ecuatie.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQCreareLectie.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQCreareTest.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQEvaluator.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQForm1.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQRaspTest.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQRegister.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.FAQTest.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewAdaugaLectie.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewLectie.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewListaLectiiSiTeste.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Materiile.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Net.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Matrici.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewAdaugaTest.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewPass.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewProfesorTest.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewRaspunsTest.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewTest.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.NewVizualizeazaTest.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.ReadMe.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Triunghi.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Form1.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.LogIn.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Properties.Resources.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.Register.resources
+C:\Users\Alexandru\Desktop\BrainStorm Studios\ItFest 2012 2.2.22\ItFest 2012 2.2.22 Final - Copy\Proiect\obj\x86\Debug\Proiect.csproj.GenerateResource.Cache
