@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<problema>
+  <limitaTimp>1000</limitaTimp>
+  <memorieTotala>5120</memorieTotala>
+  <memorieStiva>2048</memorieStiva>
+  <nrTeste>10</nrTeste>
+  <dimensiuneSursa>10</dimensiuneSursa>
+  <alteInformatii>lee</alteInformatii>
+</problema>
